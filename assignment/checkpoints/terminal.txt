@@ -19,4 +19,6 @@ to check the state of the working directory and the staging area. Basically list
 # 9 - What does the command 'git add .' do?
 It adds new or changed files in the working directory to a staging area within git, the "." is in regard to the current folder
 # 10 - What is the command to push your committed changes to your repo on GitHub?
-This command essentially moves the changes made on a local repository and uploads them to a remote repository, in this case the remote repo would be Github
+"Git push" This command essentially moves the changes made on a local repository and uploads them to a remote repository, in this case the remote repo would be Github
+# 11 - Who are the five greatest rappers of all time?
+Dylan, Dylan, Dylan, Dylan, and Dylan
