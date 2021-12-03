@@ -17,7 +17,7 @@ font-style: italic;color: #E950E0 }
 img {border: solid black; width: 30%; height:auto;}
 /* Change the font-family of your list */
 ul  {
-  font-family: monospace;
+  font-family: monospace; font-size: 120%;
 }
 H1 {font-size: 450%;}
 h3 {text-align: center;}
